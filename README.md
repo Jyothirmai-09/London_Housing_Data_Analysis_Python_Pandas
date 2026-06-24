@@ -95,3 +95,20 @@ This project strengthened my practical understanding of **Python-based Data Anal
 ├── London_Housing_Data.csv
 ├── README.md
 ```
+## 👨‍💻 Author
+
+**Jyothirmai Seepana**
+
+Data Analyst
+
+### Skills
+
+* Python
+* SQL
+* Power BI
+* Excel
+* Pandas
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+
+
